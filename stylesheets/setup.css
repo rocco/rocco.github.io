@@ -84,14 +84,15 @@ article h1, h2, h3, h4 {
 	line-height: 1.3em;
 	font-weight: 400;
 }
-#banner a {
-	border: none;
-}
 .notimportant,
 .notimportant a {
 	margin: 0;
 	font-weight: 100;
 	color: #999;
+}
+#banner a,
+.notimportant a {
+	border: none;
 }
 .caps {
 	text-transform: uppercase;
@@ -101,7 +102,7 @@ nav.main {
 }
 nav.main ul {
 	text-align: center;
-	margin: 27px 0 0 0;
+	margin: 22px 0 0 0;
 }
 nav.main ul::after {
 	content: ' ';
