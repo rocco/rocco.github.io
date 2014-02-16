@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<title>{% if page.usesitetitle %}{{ site.title }} - {{ site.subtitle }}{% else %}{{ page.title }} - {{ site.title }}{% endif %}</title>
+	<meta name="author" content="{{ site.author }}">
+
+	{% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
+	<meta name="description" content="{{ description | strip_html | condense_spaces | strip_newlines | replace:'	', ' ' | truncatewords: 27 }}">
+	{% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
+
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,minimum-scale=1">
+
+	{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
+	<link rel="canonical" href="{{ canonical }}">
+
+	<!--link rel="stylesheet" type="text/css" href="/stylesheets/reset.css">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/fonts.css">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/setup.css">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/syntax.css"-->
+
+{% bundle %}
+- /stylesheets/reset.css
+- /stylesheets/fonts.css
+- /stylesheets/setup.css
+- /stylesheets/syntax.css
+{% endbundle %}
+
+</head>
+<body>
+	<header id="banner" role="banner">
+		<h1><a class="caps" href="/"><b>Rocco</b><wbr>Georgi</a> {% if site.subtitle %} <wbr><span>{{ site.subtitle }}</span>{% endif %}</h1>
+	</header>
+
+	<nav role="navigation" class="main">
+		<ul>
+			<li><a href="/about/"{%    if page.ident == 'about'    %} class="current"{% endif %}>About</a></li>
+			<li><a href="/projects/"{% if page.ident == 'projects' %} class="current"{% endif %}>Projects</a></li>
+			<li><a href="/events/"{%   if page.ident == 'events'   %} class="current"{% endif %}>Events</a></li>
+		</ul>
+	</nav>
+
+	{{ content }}
+
+	<footer role="contentinfo" class="notimportant">
+		<p>
+			Copyright &#x00A9; {{ site.time | date: "%Y" }} PavingWays Limited</span>
+		</p>
+	</footer>
+
+	<style>
+		nav.main ul::after {
+			background-image: url('{% if page.banner %}{{ page.banner }}{% else %}{{ site.banner }}{% endif %}');
+		}
+	</style>
+
+</body>
+</html>
