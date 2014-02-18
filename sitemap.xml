@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://www.roccogeorgi.com/events/example-event.html</loc>
+        <lastmod>2014-02-17T11:10:16+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.roccogeorgi.com/projects/example-project.html</loc>
+        <lastmod>2014-02-17T11:10:16+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.roccogeorgi.com/404.html</loc>
+        <lastmod>2014-02-17T12:53:14+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.roccogeorgi.com/about/about/</loc>
+        <lastmod>2014-02-17T11:10:16+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.roccogeorgi.com/events/events/</loc>
+        <lastmod>2014-02-17T11:10:16+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.roccogeorgi.com/</loc>
+        <lastmod>2014-02-17T11:10:16+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.roccogeorgi.com/projects/projects/</loc>
+        <lastmod>2014-02-17T11:10:16+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.roccogeorgi.com/robots.txt</loc>
+        <lastmod>2014-02-17T12:56:46+01:00</lastmod>
+    </url>
+</urlset>
