@@ -21,7 +21,7 @@ A not well documented feature of Jekyll is that you can access posts in those fo
 
     {% for post in site.categories.events %}
 
-... this iterates over all posts in my folder /source/events/_posts/.
+... this iterates over all posts in my folder `/_source/events/_posts/`.
 The posts itself do not need a `category: events` in their *front-matter*.
 
 ## Jekyll plugins
