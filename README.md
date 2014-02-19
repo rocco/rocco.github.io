@@ -26,7 +26,7 @@ The posts itself do not need a `category: events` in their *front-matter*.
 
 ## Jekyll plugins
 
-- [Michael Levin's](http://www.kinnetica.com/) [sitemap generator](https://github.com/kinnetica/jekyll-plugins/blob/master/sitemap_generator.rb)
+- [Michael Levin's](http://www.kinnetica.com/) sitemap generator ([octopress version])(https://github.com/imathis/octopress/blob/master/plugins/sitemap_generator.rb)
 - my fork of [jekyll-press](https://github.com/rocco/jekyll-press) compresses HTML
 - my fork of [jekyll-asset_bundler](https://github.com/rocco/jekyll-asset_bundler) compresses JS and CSS
 
