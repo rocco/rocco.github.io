@@ -15,16 +15,11 @@
 	{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
 	<link rel="canonical" href="{{ canonical }}">
 
-	<!--link rel="stylesheet" type="text/css" href="/stylesheets/reset.css">
-	<link rel="stylesheet" type="text/css" href="/stylesheets/fonts.css">
-	<link rel="stylesheet" type="text/css" href="/stylesheets/setup.css">
-	<link rel="stylesheet" type="text/css" href="/stylesheets/syntax.css"-->
-
 {% bundle %}
-- /stylesheets/reset.css
-- /stylesheets/fonts.css
-- /stylesheets/setup.css
-- /stylesheets/syntax.css
+- /_stylesheets/reset.css
+- /_stylesheets/fonts.css
+- /_stylesheets/setup.css
+- /_stylesheets/syntax.css
 {% endbundle %}
 
 </head>
@@ -44,9 +39,12 @@
 	{{ content }}
 
 	<footer role="contentinfo" class="notimportant">
-		<p>
-			Copyright &#x00A9; {{ site.time | date: "%Y" }} PavingWays Limited</span>
-		</p>
+		<span>
+			Copyright &#x00A9; {{ site.time | date: "%Y" }} <a href="http://www.pavingways.com">PavingWays Limited</a><br>
+		</span>
+		<span>
+			<a href="https://github.com/rocco/rocco.github.io/blob/source/README.md">About this Page</a> - <a href="https://github.com/rocco/rocco.github.io/tree/source/">Jekyll Source</a>
+		</span>
 	</footer>
 
 	<style>

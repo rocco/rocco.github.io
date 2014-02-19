@@ -84,14 +84,14 @@ article h1, h2, h3, h4 {
 	line-height: 1.3em;
 	font-weight: 400;
 }
-#banner a {
-	border: none;
-}
 .notimportant,
 .notimportant a {
 	margin: 0;
-	font-weight: 100;
 	color: #999;
+}
+#banner a,
+.notimportant a {
+	border: none;
 }
 .caps {
 	text-transform: uppercase;
@@ -101,7 +101,7 @@ nav.main {
 }
 nav.main ul {
 	text-align: center;
-	margin: 27px 0 0 0;
+	margin: 22px 0 0 0;
 }
 nav.main ul::after {
 	content: ' ';
@@ -143,12 +143,13 @@ nav.main ul li a.current:hover {
 }
 footer,
 footer.notimportant {
+	font-size: 0.9em;
 	margin-top: 54px;
 }
-.credit {
-	white-space: nowrap;
+footer span {
+	display: inline-block;
+	padding-right: 1em;
 }
-
 
 @media screen and (min-width: 260px) {
 	nav.main::after,

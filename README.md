@@ -26,10 +26,11 @@ The posts itself do not need a `category: events` in their *front-matter*.
 
 ## Jekyll plugins
 
+- [Michael Levin's](http://www.kinnetica.com/) sitemap generator
 - my fork of [jekyll-press](https://github.com/rocco/jekyll-press) compresses HTML
 - my fork of [jekyll-asset_bundler](https://github.com/rocco/jekyll-asset_bundler) compresses JS and CSS
 
-Both are slightly fixed/adjusted to my needs.
+Forked are slightly fixed/adjusted to my needs.
 
 ## Git and deployment
 

@@ -4,3 +4,4 @@ _deploy
 .asset_bundler-cache
 .gist-cache
 Gemfile.lock
+_banner.pxm
