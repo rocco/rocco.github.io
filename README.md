@@ -26,7 +26,7 @@ The posts itself do not need a `category: events` in their *front-matter*.
 
 ## Jekyll plugins
 
-- [Michael Levin's](http://www.kinnetica.com/) sitemap generator
+- [Michael Levin's](http://www.kinnetica.com/) [sitemap generator](https://github.com/kinnetica/jekyll-plugins/blob/master/sitemap_generator.rb)
 - my fork of [jekyll-press](https://github.com/rocco/jekyll-press) compresses HTML
 - my fork of [jekyll-asset_bundler](https://github.com/rocco/jekyll-asset_bundler) compresses JS and CSS
 
@@ -51,6 +51,6 @@ My workflow is simple:
 
 - edit/add files
 - `$ jekyll build` to generate page
-- `$ jekyll serve` to inspect locally on [`http://localhost.com:4000/`](http://localhost.com:4000/)
+- `$ jekyll serve --watch` to inspect locally on [`http://localhost.com:4000/`](http://localhost.com:4000/)
 - ./.jk-deploy to push website to GitHub
 
