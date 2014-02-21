@@ -17,7 +17,8 @@ a {
 a:hover {
 	color: #277760;
 }
-b {
+b,
+strong {
 	font-weight: 400;
 }
 p {
@@ -64,7 +65,9 @@ ol ol {
 ol ol ol {
 	list-style-type: lower-roman;
 }
-
+article {
+	line-height: 1.7em;
+}
 
 article h1, h2, h3, h4 {
 	margin-top: 27px;

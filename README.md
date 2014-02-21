@@ -26,11 +26,17 @@ The posts itself do not need a `category: events` in their *front-matter*.
 
 ## Jekyll plugins
 
-- [Michael Levin's](http://www.kinnetica.com/) sitemap generator ([octopress version])(https://github.com/imathis/octopress/blob/master/plugins/sitemap_generator.rb)
-- my fork of [jekyll-press](https://github.com/rocco/jekyll-press) compresses HTML
-- my fork of [jekyll-asset_bundler](https://github.com/rocco/jekyll-asset_bundler) compresses JS and CSS
+I am using [Michael Levin's](http://www.kinnetica.com/) sitemap generator in the [octopress version])(https://github.com/imathis/octopress/blob/master/plugins/sitemap_generator.rb).
 
-Forked are slightly fixed/adjusted to my needs.
+My forks of plugins are slightly fixed/adjusted/merged to my needs:
+
+- [jekyll-press](https://github.com/rocco/jekyll-press) compresses HTML
+	- merged: allow excluding any StaticFiles by Matt Way
+	- merged: json support by komachi
+- [jekyll-asset_bundler](https://github.com/rocco/jekyll-asset_bundler) compresses JS and CSS
+	- allow to serve compressed locally via new config option "servenodev"
+	- cache dir in line with pygments and others (dot-dir)
+	- patch to enable re-rendering on --watch
 
 ## Git and deployment
 
