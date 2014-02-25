@@ -20,7 +20,14 @@
 - /_stylesheets/fonts.css
 - /_stylesheets/setup.css
 - /_stylesheets/syntax.css
+- /_javascript/fastclick.js
 {% endbundle %}
+
+	<script>
+		window.addEventListener('load', function () {
+			FastClick.attach(document.body);
+		}, false);
+	</script>
 
 </head>
 <body>
