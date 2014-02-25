@@ -30,9 +30,13 @@ I am using [Michael Levin's](http://www.kinnetica.com/) sitemap generator in the
 
 My forks of plugins are slightly fixed/adjusted/merged to my needs:
 
+<strike>
 - [jekyll-press](https://github.com/rocco/jekyll-press) compresses HTML
 	- merged: allow excluding any StaticFiles by Matt Way
 	- merged: json support by komachi
+	- taken out because of Java's "java.lang.IndexOutOfBoundsException: Index: 0, Size: 0"
+	- after all HTML is gzipped anyways, so what's the point compressing it again?
+</strike>
 - [jekyll-asset_bundler](https://github.com/rocco/jekyll-asset_bundler) compresses JS and CSS
 	- allow to serve compressed locally via new config option "servenodev"
 	- cache dir in line with pygments and others (dot-dir)
