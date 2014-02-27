@@ -49,6 +49,42 @@ jQuery, jQueryUI, jQuery Mobile, Sencha ExtJS,
 
 
 
+I mainly work in those areas:
+- Development 
+- Consulting
+- teaching and Workshops
+
+Main areas of interest:
+- cross-platform mobile apps in JavaScript  for browsers and Cordova/PhoneGap containers
+- front-end development in HTML5, CSS3 and JavaScript frameworks, esp AngularJS
+- server-side JavaScript in node.js
+- Git, Gerrit and JavaScript build- and dev tools
+
+
+
+Skillset and past experience
+- JavaScript, HTML5, CSS3, PHP, SQL
+- JS frameworks: jQuery, Ext JS, Backbone.js, Marionette.js, AngularJS, SAP UI5
+- JS tools: QUnit, Jasmine, Node.js (Express, Socket.IO), Grunt, Yeoman, Jasy
+- native apps: PhoneGap/Cordova, Objective-C auf iOS
+- CSS: Sass/SCSS, Compass, LESS, Twitter Bootstrap, H5BP, Foundation, alles „responsive“
+- server side: PHP esp. TYPO3, WordPress
+- DBs: MySQL, MSSQL, Oracle, NoSQL: MongoDB
+- Tools: Git, Gerrit, SVN, Eclipse/Zend Studio/PHPStorm, Gimp, JIRA, Confluence, Trac
+- PM: Scrum, Kanban
+
+
+My strengths
+•	breit gefächertes Branchenwissen (full-stack)
+•	langjährige Erfahrungen in kleinen und sehr großen Projekten
+•	langjährige Erfahrungen mit zahlreiche Frameworks und Tools 
+•	fundiertes Wissen in JavaScript/HTML5/CSS3 vor allem im Bezug auf mobile Endgeräte
+•	Wissensweitergabe im Team, Workshops oder Schulungen
+•	internationale Kunden, Englisch in Wort und Schrift
+•	einige Publikationen und internationale Konferenz-Präsentationen
+•	immer offen für neue Themen, Tools und Technologien
+
+
 
 
 
