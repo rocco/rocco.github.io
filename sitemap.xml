@@ -1,32 +1,90 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://www.roccogeorgi.com/events/example-event.html</loc>
-        <lastmod>2014-02-25T11:29:45+01:00</lastmod>
+        <loc>http://www.roccogeorgi.com/projects/carculatr-opera-platform-app.html</loc>
+        <lastmod>2014-02-28T14:40:58+01:00</lastmod>
     </url>
     <url>
-        <loc>http://www.roccogeorgi.com/projects/example-project.html</loc>
-        <lastmod>2014-02-25T11:29:45+01:00</lastmod>
+        <loc>http://www.roccogeorgi.com/projects/frost-ajax-library.html</loc>
+        <lastmod>2014-02-28T14:40:58+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.roccogeorgi.com/projects/mobile-groups.html</loc>
+        <lastmod>2014-02-28T14:40:58+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.roccogeorgi.com/projects/travel-planner-wrt-widget-nokia.html</loc>
+        <lastmod>2014-02-28T14:40:58+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.roccogeorgi.com/events/technical-book-review-beginning-smartphone-web-development.html
+        </loc>
+        <lastmod>2014-02-28T14:40:58+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.roccogeorgi.com/projects/universal-mobile-roulette-game.html</loc>
+        <lastmod>2014-02-28T14:40:58+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.roccogeorgi.com/projects/babyroulette-phonegap-iphone-game.html</loc>
+        <lastmod>2014-02-28T14:40:58+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.roccogeorgi.com/projects/ipad-phonegap-prototype.html</loc>
+        <lastmod>2014-02-28T14:40:58+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.roccogeorgi.com/projects/workshop-and-development-mobile-cross-plattform-application.html
+        </loc>
+        <lastmod>2014-02-28T14:40:58+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.roccogeorgi.com/projects/git-gerrit-workflow.html</loc>
+        <lastmod>2014-02-28T14:40:58+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.roccogeorgi.com/projects/mobile-cross-plattform-application-for-municipal-services.html
+        </loc>
+        <lastmod>2014-02-28T14:40:58+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.roccogeorgi.com/projects/html5-css3-front-end-intranet-portal.html</loc>
+        <lastmod>2014-02-28T14:40:58+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.roccogeorgi.com/projects/jquery-mobile-phonegap-bugfix-training.html</loc>
+        <lastmod>2014-02-28T14:40:58+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.roccogeorgi.com/projects/javascript-coaching-and-development.html</loc>
+        <lastmod>2014-02-28T14:40:58+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.roccogeorgi.com/projects/nodejs-boilerplate.html</loc>
+        <lastmod>2014-02-28T14:40:58+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.roccogeorgi.com/404.html</loc>
-        <lastmod>2014-02-25T11:29:45+01:00</lastmod>
+        <lastmod>2014-02-28T14:40:58+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.roccogeorgi.com/about/about/</loc>
-        <lastmod>2014-02-25T11:29:45+01:00</lastmod>
+        <lastmod>2014-02-28T14:40:58+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.roccogeorgi.com/events/events/</loc>
-        <lastmod>2014-02-25T11:40:30+01:00</lastmod>
+        <lastmod>2014-02-28T14:46:08+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.roccogeorgi.com/</loc>
-        <lastmod>2014-02-25T12:17:32+01:00</lastmod>
+        <lastmod>2014-02-28T14:40:58+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.roccogeorgi.com/projects/projects/</loc>
-        <lastmod>2014-02-25T11:40:22+01:00</lastmod>
+        <lastmod>2014-02-28T14:45:32+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.roccogeorgi.com/robots.txt</loc>
