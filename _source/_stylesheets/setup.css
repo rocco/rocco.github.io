@@ -105,7 +105,7 @@ article h1, h2, h3, h4 {
 	color: #999;
 }
 #banner a,
-.notimportant a {
+footer a {
 	text-decoration: none;
 	border: none;
 }

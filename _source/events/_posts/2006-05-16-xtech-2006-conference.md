@@ -9,6 +9,7 @@ XTech 2006 was the first conference I attended. I was blown away by most of the 
 I presented [CarCulatr, a mobile app based on web technology][carculator], during a lightning talks session.
 
 ![Rocco-Georgi presents CarCulatr at XTech 2006](/images/Rocco-Georgi-presents-CarCulatr-at-XTech-2006.jpg)
+<br><span class="notimportant">image credit: [Jeremy on flickr][imagelocation]</span>
 
 [Jeremy Keith][adactio] talked to me after the sessions and he was kind enough to take me [drinking with some quite famous people][medrinking].
 
@@ -24,3 +25,4 @@ Amsterdam is great too, but that I knew before.
 [mikesmith]: https://plus.google.com/111991826926222544385/about
 [hakonwiumlie]: http://people.opera.com/howcome/
 [medrinking]: http://flic.kr/p/e9kBC
+[imagelocation]: http://www.flickr.com/photos/adactio/148119128
