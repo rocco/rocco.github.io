@@ -33,7 +33,7 @@ I am passionate about clean code, development tools and workflows.
 [Details on my background and experience][about].
 -->
 
-## Contact Me
+## Contact me
 
 Please send emails to <rocco@pavingways.com> or tweet something to [@GeeROC][twitter].
 
