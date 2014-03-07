@@ -1,0 +1,37 @@
+---
+layout: post
+title: Mobile Unconference Rotterdam
+date: 2010-05-25
+banner: 
+---
+
+Last Friday we attended the Mobile Unconference in Rotterdam. The topics at this event were mostly game related and over 90% of the attendees were Dutch. We really liked the unconventional style. There were some presentations, some discussion slots and a lot of space to get in touch with people.
+
+The first presentation was held by Scoreloop. They have an SDK which allows game developers to build a community around their iPhone or Android game. Developers can integrate features like leaderboards, achievements or social networks. Apple’s Game Center does not give them an headache yet.
+
+The second presentation was about Microsoft‘s Windows Phone 7. The UI of the WP7 phone looked nice. Microsoft wants to make it easy for developer to develop apps (of course). On June 2, Microsoft will be organizing a free developer event called “Windows Phone Developer Hub” in Utrecht, The Netherlands.
+
+PavingWays’ Rocco was presenting a concept about a new cross-platform e-reader for mangas and comics. The reader allows interactivity as well as community features amongst some more cool things. More about that soon right here on our blog. The session was intended to be a feedback channel for us and we did indeed receive a lot of feedback and food for thought from the attendees. Thanks to all and thanks to Arjan from MobileGamesBlog.com for mentioning it on his blog, too!
+
+Then, Ken Takagi gave some insights about the Zeemote controller and all attendees got one for free – nice :) Distimo did an interesting comparison presentation between the most important app stores. They also offer a nice (and free) analytics tool for mobile app developers.
+
+Milq Media talked about their Confession iPhone app. The idea behind this app was that you can confess or listen to (approved) confessions anonymously. While listening users could vote if the confessing person goes to heaven or hell. After a great start and unfortunately also a lot of bad publicity, they took it off the iTunes App Store. Too bad…(for now).
+
+The main sponsor was Samsung, they promoted their bada platform and developer day to take place in Amsterdam June 3rd.
+
+All in all it was a great event. We met a lot of interesting people from the web, mobile and game dev scene in Rotterdam and the Netherlands in general. It was interesting to see which platforms they were targeting: mainly the iPhone/iPad and Android, all native, some even JavaME (yikes!).
+
+Astonishingly few people knew about PhoneGap, which might be related to the agencies focus and special demands of the gaming industry as web based is still not the best way to go for many game developers (it certainly is for us).
+
+This sort of fits well into what we experienced at Browsergames Forum 2009. There the main focus was games in the browser, mobile was not an issue at all. At the event in Rotterdam this time the main focus was on mobile and on games, but there was not a big focus on (mobile) browsers.
+
+So it looks like for game developers currently the focus is either browsers and games, but not mobile OR mobile and games, but not browsers.
+
+Since we at PavingWays are looking at browser-based mobile games, we see ourselves somewhere in between those two camps. However we assume the area of mobile browser games will evolve rapidly with browsers getting better and fundamental technologies like HTML5 maturing and gaining support in browsers and developers.
+
+The organizers are thinking about having such an event in Germany too and we would be happy to help setting it up – we’ll keep you updated about that.
+
+
+
+# Summary, Findings and Discoveries
+
