@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example Project
-date: 2011-11-11
+date: 2001-01-01
 banner: 
 ---
 
@@ -11,3 +11,7 @@ banner:
 
 
 ## Responsibilities
+
+
+
+[mobileajaxfaq]: http://ajax.sys-con.com/node/384206

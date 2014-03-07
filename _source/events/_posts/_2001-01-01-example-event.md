@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example Event
-date: 2011-11-11
+date: 2001-01-01
 banner: 
 ---
 
