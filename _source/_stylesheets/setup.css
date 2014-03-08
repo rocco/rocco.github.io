@@ -1,6 +1,6 @@
 body {
-	font-family: 'Quattrocento', Times, serif;
-	font-weight: 400;
+	font-family: 'Raleway', Helvetica, sans-serif;
+	font-weight: 200;
 	font-size: 1.2em;
 	line-height: 2em;
 	color: black;
@@ -31,14 +31,14 @@ a:hover {
 }
 b,
 strong {
-	font-weight: 700;
+	font-weight: 400;
 }
 p {
 	margin: 17px 0 0 0;
 }
 
 h1, h2, h3, h4 {
-	font-weight: 700;
+	font-weight: 400;
 	font-size: 1.4em;
 	line-height: 1.4em;
 }
@@ -79,14 +79,12 @@ ol ol ol {
 }
 article {
 	line-height: 1.7em;
-	font-size: 1.05em;
 }
 
 article h1, h2, h3, h4 {
 	margin-top: 27px;
 }
 #banner {
-	font-family: 'Raleway', Helvetica, sans-serif;
 	text-align: center;
 	font-size: 0.87em;
 }
@@ -94,9 +92,6 @@ article h1, h2, h3, h4 {
 	font-size: 2.2em;
 	line-height: 1.3em;
 	font-weight: 100;
-}
-#banner h1 b {
-	font-weight: 400;
 }
 #banner h1 span {
 	display: block;
@@ -109,11 +104,6 @@ article h1, h2, h3, h4 {
 	margin: 0;
 	color: #999;
 }
-#banner, 
-footer {
-	font-family: 'Raleway', Helvetica, sans-serif;
-	font-weight: 200;
-}
 #banner a,
 footer a {
 	text-decoration: none;
@@ -123,7 +113,6 @@ footer a {
 	text-transform: uppercase;
 }
 nav.main {
-	font-family: 'Raleway', Helvetica, sans-serif;
 	font-size: 0.87em;
 	margin: 0 0 27px 0;
 }
@@ -153,21 +142,20 @@ nav.main ul li {
 	margin: 0 7px 27px 0;
 }
 nav.main ul li a {
-	font-weight: 200;
 	display: inline-block;
 	text-decoration: none;
-	border: 1px solid #f7f7f7;
+	border: 1px solid #f1f1f1;
 	padding: 6px;
+	color: black;
 }
 nav.main ul li a:hover {
-	color: #277760;
 	border-color: #77b7a0;
 }
 nav.main ul li a.current {
-	font-weight: 400;
+	border-color: #77b7a0;
 }
 nav.main ul li a.current:hover {
-	color: black;
+	
 }
 footer,
 footer.notimportant {
