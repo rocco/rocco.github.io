@@ -16,3 +16,16 @@
 	font-weight: 400;
 	src: local('Raleway'), url(http://themes.googleusercontent.com/static/fonts/raleway/v7/cIFypx4yrWPDz3zOxk7hIQLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
 }
+
+@font-face {
+	font-family: 'Quattrocento';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Quattrocento'), url(http://themes.googleusercontent.com/static/fonts/quattrocento/v5/WZDISdyil4HsmirlOdBRFKRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+}
+@font-face {
+	font-family: 'Quattrocento';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Quattrocento Bold'), local('Quattrocento-Bold'), url(http://themes.googleusercontent.com/static/fonts/quattrocento/v5/Uvi-cRwyvqFpl9j3oT2mqhAPw1J91axKNXP_-QX9CC8.woff) format('woff');
+}

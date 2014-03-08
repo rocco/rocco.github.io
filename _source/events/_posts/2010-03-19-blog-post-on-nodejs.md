@@ -5,7 +5,7 @@ date: 2010-03-19
 banner: 
 ---
 
-This is a post about a blog post ...
+At some point after [JSConf EU 2009][jsconf2009] I blogged about Node.js, so this is a post about a blog post ...
 
 Why? Because for me it was a big milestone to realize and actually get what Node.js means and that it is an important thing.
 Looking at it now (4 years later) it seems I was right.
@@ -22,6 +22,7 @@ One of the comments below the original post is spot on:
 **"Wow. I feel like tearing down everything I wrote and rewrite it with node.js".**
 
 
+[jsconf2009]: http://jsconf.eu/2009/
 [pwpost]: http://www.pavingways.com/nodejs-node-is-important-introduction_1618.html
 [wikipedia]: http://ko.wikipedia.org/w/index.php?title=Node.js
 [smashing]: http://coding.smashingmagazine.com/2011/09/16/useful-node-js-tools-tutorials-and-resources/

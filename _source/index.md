@@ -13,6 +13,8 @@ I am passionate about clean code, development tools and workflows.
 
 **My professional aim is to stay on top of recent web technology and educate my clients about it.**
 
+You are a running a startup, IT-department or a similar software development company?
+
 **I can help your team improve**
 
 - their technology and tool selection

@@ -11,10 +11,10 @@ I built a simple design heavily inspired by [Zach Holman's website](http://zachh
 My page adapts to different screen widths via CSS media queries.
 So you could say this is *responsive* to some extend.
 
-I use [Google webfonts](https://www.google.com/fonts/) and the [Raleway font](https://www.google.com/fonts/specimen/Raleway) in three weights: 100, 200 400
+I use [Google webfonts](https://www.google.com/fonts/) and the [Raleway](https://www.google.com/fonts/specimen/Raleway) and [Quattrocento](https://www.google.com/fonts/specimen/Quattrocento) font in selectd weights.
 
 There is a shell script that generates base64 encoded data URIs of my all my banner images in `_source/_banners/_banner.sh` and writes them to a text file in `_source/_banners/_banner.txt`.
-This way I can easily include them into my .md files. I like to inline them so there's one request less and no waiting times w/o image.
+This way I can easily include them into my .md files. I like to inline them so there's one request less.
 
 ## Jekyll setup
 
