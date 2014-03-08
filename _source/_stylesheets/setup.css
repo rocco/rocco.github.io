@@ -97,7 +97,7 @@ article h1, h2, h3, h4 {
 	display: block;
 	font-size: 0.54em;
 	line-height: 1.3em;
-	font-weight: 200;
+	font-weight: 400;
 }
 .notimportant,
 .notimportant a {
@@ -139,6 +139,7 @@ nav.main::after {
 nav.main ul li {
 	display: inline-block;
 	font-size: 1.2em;
+	font-weight: 400;
 	margin: 0 7px 27px 0;
 }
 nav.main ul li a {
@@ -153,9 +154,6 @@ nav.main ul li a:hover {
 }
 nav.main ul li a.current {
 	border-color: #77b7a0;
-}
-nav.main ul li a.current:hover {
-	
 }
 footer,
 footer.notimportant {
