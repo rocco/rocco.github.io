@@ -84,6 +84,10 @@ article {
 article h1, h2, h3, h4 {
 	margin-top: 27px;
 }
+img.left,
+img.right {
+	display: block;
+}
 #banner {
 	text-align: center;
 	font-size: 0.87em;
