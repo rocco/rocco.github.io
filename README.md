@@ -44,6 +44,9 @@ My forks of plugins are slightly fixed/adjusted/merged to my needs:
 	- allow to serve compressed locally via new config option "servenodev"
 	- cache dir in line with pygments and others (dot-dir)
 	- patch to enable re-rendering on --watch
+- imagetag
+	- my own image tag plugin to add classes to images
+	- based on [Andrew Stewart's](http://blog.stwrt.ca/2012/11/04/jekyll-images) [plugin](https://github.com/stewart/blog/blob/master/plugins/image_tag.rb) 
 
 ## Git and deployment
 

@@ -5,12 +5,13 @@ date: 2009-04-28
 banner: 
 ---
 
-Panda Route is a Web Runtime (WRT) widget developed during the 24-hour Hackathon at Nokia’s Developer Summit 2009.
-I went there having never developed a WRT widget before and **won 2nd runner-up price in the Hackathon.**
+[{% image left /images/pandaroute-logo.jpg "Panda Route Travel Planner WRT Widget Logo" %}][ovistore]
+Panda Route is a Web Runtime (WRT) widget developed during the 24-hour Hackathon at Nokia’s Developer Summit 2009 in Monaco.
 
+I was invited by Nokia and went there having never developed a WRT widget before and **won 2nd runner-up price in the Hackathon.**
 Quite a positive outcome, especially taking into consideration we were the only team with only one developer! 
 
-It also meant I had to present Panda Route on the big stage in front of Nokia executives on very short notice:
+This also meant I had to present Panda Route on the big stage in front of Nokia executives on very short notice:
 
 ![Rocco Georgi presents at Nokia Developer Summit 2009](http://farm4.staticflickr.com/3661/3505636560_38fcf58d0f_z.jpg)
 
@@ -31,6 +32,8 @@ This all was developed in more or less 24 hours (we did not miss the party that 
 - presentation of final product
 
 The widget is free and available for Nokia N97 on the [Ovi Store][ovistore].
+
+![PavingWays wins 2nd runner up at Nokia Hackathon](http://farm4.staticflickr.com/3411/3504840847_04c6f809f6_m.jpg)
 
 
 [ovistore]: http://store.ovi.com/content/6948

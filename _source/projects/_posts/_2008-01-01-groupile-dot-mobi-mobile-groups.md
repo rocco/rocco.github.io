@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Groupile.mobi - Mobile Groups
+title: Groupile.mobi - mobile special interest groups
 date: 2008-01-01
 banner: 
 ---
@@ -16,6 +16,7 @@ Entwicklung einer mobilen, webbasierten Plattform für Special-Interest-Gruppen.
 
 ## Challenge
 
+- multilingual (EN/FR/ES/DE)
 
 
 ## Responsibilities
