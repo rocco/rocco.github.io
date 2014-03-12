@@ -3,7 +3,18 @@ layout: post
 title: Workshop and Development of a mobile cross platform app
 date: 2011-11-30
 banner: 
+todo: 1
 ---
+
+## Work ahead
+
+Sorry this project description is still in the works.
+
+
+
+[airbnb]: http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/
+
+<!--
 
 Auf Basis des Workshops in Q1 2011 wurde die zentrale JavaScript Komponente der mobilen Applikation zur Abdeckung eines Außendienstler-Workflows entwickelt. Diese basiert auf einer von mir entwickelten JavaScript-Library, die sowohl auf Endgeräten als auch als Node.js-Modul auf Servern lauffähig ist. 
 
@@ -25,4 +36,4 @@ JavaScript Entwicklung für iOS, Android und Node.js
 Beratung, Architektur, Aufwands- und Kostenschätzung für verteiltes Team
 
 
-[airbnb]: http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/
+-->

@@ -29,6 +29,9 @@ a:hover {
 	-moz-text-decoration-color: #277760;
 	text-decoration-color: #277760;
 }
+a.posttodo {
+	text-decoration: none;
+}
 b,
 strong {
 	font-weight: 400;

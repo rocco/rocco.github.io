@@ -1,10 +1,17 @@
 ---
 layout: post
-title: MobileMonday Tokyo: All About Location
+title: MobileMonday Tokyo - All About Location
 date: 2010-10-21
 banner: 
+todo: 1
 ---
 
+
+## Work ahead
+
+Sorry this event description is still in the works.
+
+<!--
 We attended MobileMonday in Tokyo, Japan. The event started around 7pm at BierVana, a very new bar, opened only a few days ago. There were four talks – all about location based services.
 
 The first presentation on the “Asia Pacific Mobile & LBS Outlook” was held by Marc Einstein from the market research company Frost & Sullivan. His presentation (PDF) gave a lot of statistical insights in different regions in Asia. Asia in general is a very competitive market especially for mobile operators. In India alone there are around 15 operators and Indonesia, also a very interesting market for mobile services, has 11 mobile operators. Indonesia is also the third largest region worldwide (after US and UK) for Facebook usage on mobile devices. Contrary to Indonesia, in Japan the biggest mobile social network is Mixi with over 21 million users and in South Korea it is Cyworld (18 million users).
@@ -27,3 +34,4 @@ Then the networking part started. The crowd was pretty mixed: American, German, 
 
 # Summary, Findings and Discoveries
 
+-->

@@ -1,9 +1,16 @@
 ---
 layout: post
-title: Implementing and imparting a Git and Gerrit workflow
+title: Implementing and communicating a Git and Gerrit workflow
 date: 2012-09-01
 banner: 
+todo: 1
 ---
+
+## Work ahead
+
+Sorry this project description is still in the works.
+
+<!--
 
 Zur Ablösung von SVN war ich mit der Erstellung eines Git- und Gerrit Workflows betraut.
 Im Zuge dessen wurden diverse Dokumentationen zu Git und dessen Clients für die Entwickler der Abteilung angefertigt.
@@ -23,3 +30,4 @@ Zu Git und Gerrit hielt ich diverse Workshops mit den Entwicklern ab und leistet
 ## Responsibilities
 
 Strukturierung des Workflows, Tool-Einführung, Doku, Workshops, Support
+-->

@@ -3,7 +3,14 @@ layout: post
 title: JavaScript mentoring and development support
 date: 2013-04-01
 banner: 
+todo: 1
 ---
+
+## Work ahead
+
+Sorry this project description is still in the works.
+
+<!--
 
 Der Kunde hatte aufgrund eines Updates seiner Entwicklungs-Tools (TigerLogic Omnis) ein Wissens-Update im Bereich JavaScript Entwicklung und –Tools nötig.
 Ich war einen Tag vor Ort und führte die Entwickler der Firma an die aktuellen Entwicklungs- und Debugging-Tools, sowie JavaScript Frameworks heran.
@@ -27,3 +34,4 @@ Chrome developer tools coaching
 Integration if several JS libraries (DHTMLX)
 JavaScript development and optimizations for mobile version
 node.js development
+-->

@@ -3,7 +3,17 @@ layout: post
 title: CSS3 in space - a chrome extension game
 date: 2010-05-15
 banner: 
+todo: 1
 ---
+
+## Work ahead
+
+Sorry this project description is still in the works.
+
+There's a [Chip article][chiparticle] about project and content.
+
+[chiparticle]: http://www.chip.de/bildergalerie/Die-Gewinner-der-ersten-GTUG-Battle-Beta-Die-besten-Chrome-Extensions-Galerie_42151255.html?show=1
+<!--
 
 Jesse and I took part in Germany’s GTUG Chrome Extension Battle back in March. GTUG stands for “Google Technology User Group” and the Extension Battle was a hacker competition to create some kind of Extension for the Google Chrome browser. This is rather simple to get started with and very similar to creating web-based widgets.
 
@@ -18,3 +28,4 @@ Still, if we manage to stay at around 100 installs per week, we will be at 5k us
 
 
 ## Responsibilities
+-->

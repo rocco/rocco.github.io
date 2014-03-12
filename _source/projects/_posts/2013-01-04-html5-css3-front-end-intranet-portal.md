@@ -3,7 +3,14 @@ layout: post
 title: HTML5/CSS3 front-end for intranet portal
 date: 2013-01-04
 banner: 
+todo: 1
 ---
+
+## Work ahead
+
+Sorry this project description is still in the works.
+
+<!--
 
 Ein Intranet-Angebot der T–Systems wurde nach CI/CD Vorgaben mit einem neuen Front-End versehen. 
 Dazu wurde unter anderem Twitter Bootstrap evaluiert und benutzt. 
@@ -30,3 +37,5 @@ Eine besondere Herausforderung dabei war auch die komplette Unterstützung des I
 
 - System analysis of existing TYPO3-based system
 - Development of JavaScript, HTML5, CSS3 and PHP
+
+-->
