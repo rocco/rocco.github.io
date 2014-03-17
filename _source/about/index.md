@@ -112,6 +112,7 @@ photography, travel, moving and sailing.
 
 ## Find me here
 
+- E-Mail: <rocco@pavingways.com>
 - [GitHub][github]
 - [Twitter][twitter]
 - [LinkedIn][linkedin]

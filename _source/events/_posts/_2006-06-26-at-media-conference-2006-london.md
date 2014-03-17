@@ -12,5 +12,5 @@ todo: 1
 Sorry this event description is still in the works.
 
 <!--
-
+http://www.pavingways.com/atmedia-conference-2006-summary-day-2_15.html
 -->

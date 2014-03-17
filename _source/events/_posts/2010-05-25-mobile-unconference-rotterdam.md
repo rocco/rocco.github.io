@@ -1,9 +1,17 @@
 ---
 layout: post
-title: Mobile Unconference Rotterdam
+title: Attending Mobile Unconference Rotterdam
 date: 2010-05-25
 banner: 
+todo: 1
 ---
+
+
+## Work ahead
+
+Sorry this event description is still in the works.
+
+<!--
 
 Last Friday we attended the Mobile Unconference in Rotterdam. The topics at this event were mostly game related and over 90% of the attendees were Dutch. We really liked the unconventional style. There were some presentations, some discussion slots and a lot of space to get in touch with people.
 
@@ -35,3 +43,4 @@ The organizers are thinking about having such an event in Germany too and we wou
 
 # Summary, Findings and Discoveries
 
+-->

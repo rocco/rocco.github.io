@@ -12,5 +12,5 @@ todo: 1
 Sorry this event description is still in the works.
 
 <!--
-
+http://www.pavingways.com/dconstruct-2006-has-started_48.html
 -->

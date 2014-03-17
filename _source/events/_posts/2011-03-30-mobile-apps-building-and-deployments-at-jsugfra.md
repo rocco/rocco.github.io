@@ -3,7 +3,15 @@ layout: post
 title: Presenting at JavaScript User Group Frankfurt
 date: 2011-03-30
 banner: 
+todo: 1
 ---
+
+
+## Work ahead
+
+Sorry this event description is still in the works.
+
+<!--
 
 This Monday we held the second iteration of our JavaScript User Group here in Frankfurt: #jsugfra (thanks Björn!)
 
@@ -39,3 +47,4 @@ Looking forward to jsugfra[2]
 # Summary, Findings and Discoveries
 
 [pwpost]: http://www.pavingways.com/mobile-apps-building-deployment-jsugfra1_2221.html
+-->

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Example Event
-date: 2001-01-01
+title: Bar Camp Block Party, Palo Alto
+date: 2007-09-02
 banner: 
 todo: 1
 ---
@@ -12,5 +12,5 @@ todo: 1
 Sorry this event description is still in the works.
 
 <!--
-
+http://www.pavingways.com/barcampblock-in-palo-alto_121.html
 -->

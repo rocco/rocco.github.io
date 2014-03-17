@@ -12,5 +12,5 @@ todo: 1
 Sorry this event description is still in the works.
 
 <!--
-
+http://www.pavingways.com/leveling-the-mobile-playing-field-mobile-startups-microsoft-motorola-verizon-2_1378.html
 -->

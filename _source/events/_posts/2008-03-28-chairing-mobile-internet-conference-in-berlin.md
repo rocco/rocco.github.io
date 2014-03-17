@@ -1,0 +1,16 @@
+---
+layout: post
+title: Chairing Mobile Internet Conference in Berlin
+date: 208-03-28
+banner: 
+todo: 1
+---
+
+
+## Work ahead
+
+Sorry this event description is still in the works.
+
+<!--
+http://www.pavingways.com/mobile-internet-conference-in-berlin_174.html
+-->

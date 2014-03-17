@@ -12,5 +12,5 @@ todo: 1
 Sorry this event description is still in the works.
 
 <!--
-
+http://www.pavingways.com/xml-2006-conference-boston-co-speaking_68.html
 -->

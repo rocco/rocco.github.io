@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Example Event
-date: 2001-01-01
+title: HTML5/CSS3/PhoneGap Meetup Group Frankfurt
+date: 2010-03-15
 banner: 
 todo: 1
 ---
@@ -12,5 +12,5 @@ todo: 1
 Sorry this event description is still in the works.
 
 <!--
-
 -->
+
