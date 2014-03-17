@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chairing Mobile Internet Conference in Berlin
-date: 208-03-28
+date: 2008-03-28
 banner: 
 todo: 1
 ---
