@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speaking at Over-The-Air London
+title: "Speaking at Over-The-Air, London"
 date: 2009-09-22
 banner: 
 todo: 1

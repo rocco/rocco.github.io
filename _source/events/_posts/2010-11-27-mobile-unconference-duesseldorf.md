@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Organizing Mobile Unconference Düsseldorf
+title: "Organizing Mobile Unconference, Düsseldorf"
 date: 2010-11-27
 banner: 
 todo: 1

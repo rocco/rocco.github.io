@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Attending Mobile Unconference Rotterdam
+title: "Attending Mobile Unconference, Rotterdam"
 date: 2010-05-25
 banner: 
 todo: 1

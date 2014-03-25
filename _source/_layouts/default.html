@@ -60,7 +60,7 @@
 
 	<style>
 		nav.main ul::after {
-			background-image: url('{% if page.banner %}{{ page.banner }}{% else %}{{ site.banner }}{% endif %}');
+			background-image: url('/images/banners/{% if page.banner %}{{ page.banner }}{% else %}{{ site.banner }}{% endif %}');
 		}
 	</style>
 

@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Example Project
+title: "Example Project"
 date: 2001-01-01
 banner: 
+todo: 1
 ---
 
+## Work ahead
 
-## Challenge
+Sorry this project description is still in the works.
 
-
-
-## Responsibilities
+<!--
+helpful stuff here
+-->

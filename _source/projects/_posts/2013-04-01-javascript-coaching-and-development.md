@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JavaScript mentoring and development support
+title: "JavaScript mentoring and development support"
 date: 2013-04-01
 banner: 
 todo: 1

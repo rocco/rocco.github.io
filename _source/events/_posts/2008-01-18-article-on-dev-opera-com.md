@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Article on dev.opera.com about Mobile Ajax and the Frost Library
+title: "Article on dev.opera.com about Mobile Ajax and the Frost Library"
 date: 2008-01-18
 banner: 
 todo: 1

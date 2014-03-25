@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CSS3 in space - a chrome extension game
+title: "CSS3 in space - a chrome extension game"
 date: 2010-05-15
 banner: 
 todo: 1

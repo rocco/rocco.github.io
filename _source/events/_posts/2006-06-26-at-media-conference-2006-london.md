@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Example Event
-date: 2001-01-01
+title: "Attending @media Conference, London"
+date: 2006-06-26
 banner: 
 todo: 1
 ---

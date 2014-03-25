@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Attending MobileMonday Tokyo - All About Location
+title: "Attending MobileMonday Tokyo - All About Location"
 date: 2010-10-21
 banner: 
 todo: 1

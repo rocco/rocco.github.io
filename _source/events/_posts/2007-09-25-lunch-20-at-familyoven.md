@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lunch 2.0 ar Family Oven, San Francisco
+title: "Lunch 2.0 ar Family Oven, San Francisco"
 date: 2007-09-25
 banner: 
 todo: 1

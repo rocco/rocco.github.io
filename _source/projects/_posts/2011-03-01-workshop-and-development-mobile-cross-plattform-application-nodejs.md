@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Workshop and Development of a mobile cross platform app
+title: "Workshop and Development of a mobile cross platform app"
 date: 2011-11-30
 banner: 
 todo: 1

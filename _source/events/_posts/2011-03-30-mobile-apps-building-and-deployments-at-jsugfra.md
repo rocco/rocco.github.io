@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presenting at JavaScript User Group Frankfurt
+title: "Presenting at JavaScript User Group, Frankfurt"
 date: 2011-03-30
 banner: 
 todo: 1

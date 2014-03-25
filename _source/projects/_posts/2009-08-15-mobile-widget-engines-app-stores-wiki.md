@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mobile Widget Engines & App Stores Wiki
+title: "Mobile Widget Engines & App Stores Wiki"
 date: 2009-08-15
 banner: 
 todo: 1

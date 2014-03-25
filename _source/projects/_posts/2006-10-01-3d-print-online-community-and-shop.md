@@ -2,7 +2,8 @@
 layout: post
 title: 3D printing online shop and community portal
 date: 2006-10-01
-banner: 
+banner: rapidobject.jpg
+todo: 1
 ---
 
 Co-Operation with [Medienfreunde][medienfreunde], who do [Webdesign in Leipzig][medienfreunde]. 

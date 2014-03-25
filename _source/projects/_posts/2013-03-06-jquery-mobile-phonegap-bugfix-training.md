@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PhoneGap / jQuery Mobile emergency bugfix and training
+title: "PhoneGap / jQuery Mobile emergency bugfix and training"
 date: 2013-03-06
 banner: 
 todo: 1

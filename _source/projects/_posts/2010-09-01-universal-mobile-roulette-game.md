@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Universal mobile roulette game for browsers
+title: "Universal mobile roulette game for browsers"
 date: 2010-09-01
 banner: 
 todo: 1

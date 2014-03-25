@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Attending AjaxWorld, Santa Clara
+title: "Attending AjaxWorld, Santa Clara"
 date: 2007-09-24
 banner: 
 todo: 1

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mobile Monday at AOL, Mountain View
+title: "Mobile Monday at AOL, Mountain View"
 date: 2007-08-20
 banner: 
 todo: 1

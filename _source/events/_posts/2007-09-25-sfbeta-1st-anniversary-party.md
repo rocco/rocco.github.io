@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SF Beta 1st Anniversary Party
+title: "SF Beta 1st Anniversary Party, San Francisco"
 date: 2007-09-25
 banner: 
 todo: 1

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nokia Developer Summit 2009 and 24hrs Hackathon
+title: "Nokia Developer Summit 2009 and 24hrs Hackathon, Monaco"
 date: 2009-05-03
 banner: 
 todo: 1

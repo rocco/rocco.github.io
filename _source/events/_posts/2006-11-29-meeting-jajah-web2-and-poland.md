@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Example Event
-date: 2001-01-01
+title: "Meeting Jajah, Mountain View"
+date: 2006-11-29
 banner: 
 todo: 1
 ---

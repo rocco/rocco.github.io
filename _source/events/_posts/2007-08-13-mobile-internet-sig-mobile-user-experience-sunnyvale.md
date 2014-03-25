@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mobile Internet SIG: Mobile User Experience, Sunnyvale
+title: "Mobile Internet SIG: Mobile User Experience, Sunnyvale"
 date: 2007-08-13
 banner: 
 todo: 1

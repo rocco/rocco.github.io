@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Groupile.mobi - mobile special interest groups
+title: "Groupile.mobi - mobile special interest groups"
 date: 2008-01-01
 banner: 
 todo: 1

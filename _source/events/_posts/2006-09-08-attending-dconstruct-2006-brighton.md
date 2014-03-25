@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Example Event
-date: 2001-01-01
+title: "Attending dconstruct 2006, Brighton"
+date: 2006-09-08
 banner: 
 todo: 1
 ---

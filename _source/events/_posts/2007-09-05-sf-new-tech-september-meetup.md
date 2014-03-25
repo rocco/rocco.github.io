@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SF New Tech, San Francisco
+title: "SF New Tech, San Francisco"
 date: 2007-09-05
 banner: 
 todo: 1

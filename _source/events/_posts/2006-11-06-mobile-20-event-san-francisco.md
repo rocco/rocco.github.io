@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Example Event
-date: 2001-01-01
+title: "Attending Mobile 2.0 event, San Francisco"
+date: 2006-11-06
 banner: 
 todo: 1
 ---

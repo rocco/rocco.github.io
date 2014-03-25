@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Example Event
-date: 2001-01-01
+title: "Speaking at Xtech 2007, Paris"
+date: 2007-04-27
 banner: 
 todo: 1
 ---

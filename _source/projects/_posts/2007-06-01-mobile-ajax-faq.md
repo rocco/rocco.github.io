@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mobile Ajax FAQ
+title: "Mobile Ajax FAQ"
 date: 2007-06-01
 banner: 
 todo: 1

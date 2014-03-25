@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presenting Groupile at the FMC Summit in Munich
+title: "Presenting Groupile at the FMC Summit, Munich"
 date: 2008-03-25
 banner: 
 todo: 1

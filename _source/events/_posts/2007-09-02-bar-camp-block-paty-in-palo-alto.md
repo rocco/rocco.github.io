@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bar Camp Block Party, Palo Alto
+title: "Bar Camp Block Party, Palo Alto"
 date: 2007-09-02
 banner: 
 todo: 1

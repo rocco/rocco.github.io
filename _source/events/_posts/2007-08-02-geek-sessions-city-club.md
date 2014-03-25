@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GeekSessions, San Francisco
+title: "GeekSessions, San Francisco"
 date: 2007-08-02
 banner: 
 todo: 1

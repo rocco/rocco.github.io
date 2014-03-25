@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Example Event
-date: 2001-01-01
+title: "SF Beta November, San Francisco"
 banner: 
 todo: 1
 ---
@@ -12,5 +11,5 @@ todo: 1
 Sorry this event description is still in the works.
 
 <!--
-http://www.pavingways.com/web-2point2-event-review_60.html
+http://www.pavingways.com/sf-beta-november-clubbing-with-the-geeks_61.html
 -->

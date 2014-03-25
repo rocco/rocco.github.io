@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PhoneGap-based iPad app prototype
+title: "PhoneGap-based iPad app prototype"
 date: 2011-02-01
 banner: 
 todo: 1

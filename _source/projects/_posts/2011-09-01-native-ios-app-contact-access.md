@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS native app with contacts access
+title: "iOS native app with contacts access"
 date: 2011-09-01
 banner: 
 ---

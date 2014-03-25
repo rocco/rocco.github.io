@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Realizing that Node.js is important
+title: "Realizing that Node.js is important"
 date: 2010-03-19
-banner: 
+banner: bridgesuspension.jpg
 ---
 
 At some point after [JSConf EU 2009][jsconf2009] I blogged about Node.js, so this is a post about a blog post ...

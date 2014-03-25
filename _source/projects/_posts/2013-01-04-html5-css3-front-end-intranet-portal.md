@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTML5/CSS3 front-end for intranet portal
+title: "HTML5/CSS3 front-end for intranet portal"
 date: 2013-01-04
 banner: 
 todo: 1

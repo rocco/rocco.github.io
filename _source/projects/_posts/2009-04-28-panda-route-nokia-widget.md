@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Panda Route - a Nokia WRT Widget and an award
+title: "Panda Route - a Nokia WRT Widget and an award"
 date: 2009-04-28
-banner: 
+banner: orangedigger.jpg
 ---
 
 [{% image left /images/pandaroute-logo.jpg "Panda Route Travel Planner WRT Widget Logo" %}][ovistore]

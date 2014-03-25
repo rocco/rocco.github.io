@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speaking at Mobile Web Americas, Orlando
+title: "Speaking at Mobile Web Americas, Orlando"
 date: 2007-10-02
 banner: 
 todo: 1

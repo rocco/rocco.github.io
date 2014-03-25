@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SD Forum on Social Networking & Mobile Phone Services, Sunnyvale
+title: "SD Forum on Social Networking & Mobile Phone Services, Sunnyvale"
 date: 2007-06-09
 banner: 
 todo: 1

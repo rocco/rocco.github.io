@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Example Event
-date: 2001-01-01
+title: "Attending Microsoft event on mobile, Mountain View" 
+date: 2006-11-26
 banner: 
 todo: 1
 ---

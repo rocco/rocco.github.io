@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Panel Discussion at Frankfurt Book Fair
+title: "Panel Discussion at Book Fair, Frankfurt"
 date: 2009-10-15
 banner: 
 todo: 1

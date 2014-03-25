@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cordova iOS / Android app for municipal services
+title: "Cordova iOS / Android app for municipal services"
 date: 2012-11-30
 banner: 
 todo: 1

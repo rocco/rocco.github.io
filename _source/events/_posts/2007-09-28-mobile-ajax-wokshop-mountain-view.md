@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Panel Discussion at Mobile Ajax Wokshop Mountain View
+title: "Panel Discussion at Mobile Ajax Wokshop, Mountain View"
 date: 2007-09-28
 banner: 
 todo: 1

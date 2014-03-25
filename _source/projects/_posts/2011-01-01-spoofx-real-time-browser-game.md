@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SpoofX - a browser / mobile / facebook game
+title: "SpoofX - a browser / mobile / facebook game"
 date: 2011-01-01
 banner: 
 todo: 1
