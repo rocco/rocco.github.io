@@ -4,7 +4,7 @@
 	<title>Cordova App Emergency - bugfix and development - Rocco Georgi</title>
 	<meta name="author" content="Rocco Georgi">
 	
-	<meta name="description" content="   Cordova App Emergency - bugfix and development  18 Mar 2014  Work aheadSorry this project description is still in the works.<!--helpful stuff here-->">
+	<meta name="description" content="Cordova App Emergency - bugfix and development 18 Mar 2014 Similar to an emergency gig last year I was contacted by a digital agency in the region...">
 	
 	<meta name="HandheldFriendly" content="True">
 	<meta name="MobileOptimized" content="320">
@@ -47,13 +47,54 @@
 		<p class="notimportant">18 Mar 2014</p>
 	</header>
 
-	<h2>Work ahead</h2>
+	<p>Similar to an <a href="/projects/jquery-mobile-phonegap-bugfix-training.html">emergency gig last year</a> I was contacted by a digital agency in the region to fix their PhoneGap app in the last days before a deadline.
+Their developer had become sick so they asked if I had a few hours to spend on something like that.</p>
 
-<p>Sorry this project description is still in the works.</p>
+<p>Apparently my name pops up when you enter &quot;PhoneGap&quot; on <a href="http://freelancer-rheinmain.de/search?q=phonegap">freelancer-rheinmain.de</a> - thanks to <a href="http://www.fbrandel.de">Florian</a> for that site.</p>
 
-<!--
-helpful stuff here
--->
+<h2>Challenge</h2>
+
+<p>On the first look the app was basically done with just some &quot;minor&quot; improvements to be made. 
+It would list PDF documents, allow you to search and sort them and finally let you view them by loading full-screen images of each page with a selfmade browser.
+You could also download the PDFs (meaning all pages of a PDF as single images) and browse them offline.</p>
+
+<p>Frameworks used in the app included MooTools with PowerTools, Hammer.js, IScroll. 
+PhoneGap version was pretty recent and aside from standards like Splashscreen and Statusbar the only plugins that caught my eye were File and FileTransfer.</p>
+
+<p>They dumped the whole thing into GitHub for me and I got 14 Tickets and managed to finish 8 or so in the first few hours.</p>
+
+<h2>Surprise</h2>
+
+<p>But hey no surprises no fun - turns out the PDF viewing mechanism was not so great afer all ... 
+single-page image sizes ranged around sizes of 3 to 6 megabytes and storing them for offline browsing took ages, partly because the webserver delivering these PDFs apparently was connected via a 56k modem.</p>
+
+<p>The biggest gotcha was related to these downloads as well as to debugging of PhoneGap apps: 
+The initial developer of the app had inserted a hard-coded execution of the onDeviceReady() function so it was executed in desktop browsers (normally does not happen because the &quot;deviceready&quot; event is not fired here).</p>
+
+<p><strong>Even if it&#39;s a bad hack, that&#39;s alright, but only if you make sure it is not executed on devices too!</strong></p>
+
+<p>The error did not show directly but on actual devices anything you would trigger in the FileTransfer plugin was executed twice ... onDeviceReady() was executed after a delay for debugging reasons <strong>and</strong> triggered through the &quot;deviceready&quot; event on devices.</p>
+
+<p>So as a result the progress-percentages of downloads jumped happily up and down, then up again - basically a download would trigger a sequence of single pages to be pulled, then saved, same for the next page etc.
+This all then <strong>happened twice</strong> and would cause trouble because as queue 1 was at page 10 and progress was evaluating to 35%, queue 2 would download page 3 and set the percentage back to 2% - a very annoying and hard to catch error.</p>
+
+<p>Another gotcha was that XCode now defaults target platforms differently and includes arm64 - of course some of the plugins are not compatible yet and can&#39;t build for devices - and of course this only happens hours before delivery with everything working great on the simulator ... Here just a hint in the Cordova/PhoneGap docs might be an awesome idea.
+Talking of Cordova docs - I also opened/got merged a <a href="https://github.com/apache/cordova-plugin-inappbrowser/pull/31">pull request for their InAppBrowser plugin docs</a>, some example source code apparently is never actually executed.</p>
+
+<h2>Result</h2>
+
+<p>I managed to bugfix and extend the app so that it could be packaged and delivered to my customer&#39;s client.
+Thankfully we were able to focus only on iOS for this preview-release, although Android could be done in a few days.</p>
+
+<p>After all I swapped the single-page images browser for the InAppBrowser plugin and just displayed PDFs as they were (iOS Safari ftw.).
+This also allows for zooming in the PDF and downloads were only one (big) file and much faster. 
+For Android this looks similar, but involves the Google Docs PDF viewer and a native reader for downloaded PDFs.</p>
+
+<p>It was an interesting job. The main challenge was time so I spend quite a few nights and delivered roughly 40 hours in two weeks on the side.
+I used the Cordova command line tools exclusively as they appeal to me more for some reason - no issues there whatsoever.</p>
+
+<p>Keeping a Cordova/PhoneGap project in a Git repo can be a pain because you never really know what files to .gitignore. 
+But that&#39;s another story.</p>
 
 
 </article>
@@ -70,7 +111,7 @@ helpful stuff here
 
 	<style>
 		nav.main ul::after {
-			background-image: url('/images/banners/duplotower.jpg');
+			background-image: url('/images/banners/eisernersteg.jpg');
 		}
 	</style>
 
