@@ -13,7 +13,7 @@ I presented [CarCulatr, a mobile app based on web technology][carculator], durin
 
 [Jeremy Keith][adactio] talked to me after the sessions and he was kind enough to take me [drinking with some quite famous people][medrinking].
 
-I also met [Brian Suda][briansuda], [Mike Smith][mikesmith] - back then workin for Opera - he gave me an "I open the WEB" T-Shirt.
+I also met [Brian Suda][briansuda], [Mike Smith][mikesmith] - back then working for Opera - he gave me an "I open the WEB" T-Shirt.
 Mike also introduced me to [Håkon Wium Lie][hakonwiumlie], CTO at Opera.
 
 Meeting all these people was my main take away I guess, along with learning a lot and knowing I could present stuff at conferences.
