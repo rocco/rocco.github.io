@@ -22,7 +22,8 @@ a {
 	-moz-text-decoration-style: dashed;
 	text-decoration-style: dashed;
 	transition: all 0.1s linear;
-	-webkit-transition: all 0.1s linear;
+	-webkit-transition: all 0.07s linear;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 a:hover {
 	color: #277760;
@@ -152,13 +153,12 @@ nav.main ul li a {
 	border: 1px solid #f1f1f1;
 	padding: 6px;
 	color: black;
-	-webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 nav.main ul li a:hover {
 	border-color: #77b7a0;
 }
 nav.main ul li a:active {
-	-webkit-transform: scale(0.96, 0.96);
+	-webkit-transform: scale(0.90, 0.90);
 }
 nav.main ul li a.current {
 	border-color: #77b7a0;
