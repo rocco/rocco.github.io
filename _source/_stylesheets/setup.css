@@ -152,6 +152,7 @@ nav.main ul li a {
 	border: 1px solid #f1f1f1;
 	padding: 6px;
 	color: black;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 nav.main ul li a:hover {
 	border-color: #77b7a0;
