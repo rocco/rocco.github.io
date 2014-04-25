@@ -2,7 +2,8 @@
 layout: post
 title: "iPhone Game BabyRoulette built with PhoneGap"
 date: 2010-10-01
-banner: 
+banner:
+todo: 1
 ---
 
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "HTML5/CSS3/PhoneGap Meetup Group, Frankfurt"
-date: 2010-03-15
-banner: 
+title: "HTML5/CSS3/PhoneGap Meetup Group, Frankfurt (the end)"
+date: 2013-11-24
+banner:
 todo: 1
 ---
 
@@ -13,4 +13,3 @@ Sorry this event description is still in the works.
 
 <!--
 -->
-
