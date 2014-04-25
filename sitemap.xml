@@ -175,10 +175,6 @@
         <lastmod>2014-03-25T08:06:16+01:00</lastmod>
     </url>
     <url>
-        <loc>http://www.roccogeorgi.com/events/HTML5-CSS3-PhoneGap-Meetup-Group.html</loc>
-        <lastmod>2014-03-25T08:06:53+01:00</lastmod>
-    </url>
-    <url>
         <loc>http://www.roccogeorgi.com/events/blog-post-on-nodejs.html</loc>
         <lastmod>2014-03-25T08:07:16+01:00</lastmod>
     </url>
@@ -196,7 +192,7 @@
     </url>
     <url>
         <loc>http://www.roccogeorgi.com/projects/babyroulette-phonegap-iphone-game.html</loc>
-        <lastmod>2014-03-25T08:29:27+01:00</lastmod>
+        <lastmod>2014-04-25T13:31:11+02:00</lastmod>
     </url>
     <url>
         <loc>http://www.roccogeorgi.com/events/mobile-monday-tokyo-all-about-location.html</loc>
@@ -222,7 +218,7 @@
     </url>
     <url>
         <loc>http://www.roccogeorgi.com/projects/native-ios-app-contact-access.html</loc>
-        <lastmod>2014-03-25T08:29:57+01:00</lastmod>
+        <lastmod>2014-04-25T13:30:51+02:00</lastmod>
     </url>
     <url>
         <loc>
@@ -253,6 +249,10 @@
         <lastmod>2014-03-25T08:30:29+01:00</lastmod>
     </url>
     <url>
+        <loc>http://www.roccogeorgi.com/events/HTML5-CSS3-PhoneGap-Meetup-Group.html</loc>
+        <lastmod>2014-04-25T13:26:36+02:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.roccogeorgi.com/projects/nodejs-boilerplate.html</loc>
         <lastmod>2014-03-25T08:41:44+01:00</lastmod>
     </url>
@@ -261,6 +261,10 @@
             http://www.roccogeorgi.com/projects/pdf-cordova-app-emergency-bugfix-and-development.html
         </loc>
         <lastmod>2014-03-31T10:52:42+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.roccogeorgi.com/projects/vagrant-docker-development-environment.html</loc>
+        <lastmod>2014-04-25T13:21:53+02:00</lastmod>
     </url>
     <url>
         <loc>http://www.roccogeorgi.com/404.html</loc>
@@ -272,7 +276,7 @@
     </url>
     <url>
         <loc>http://www.roccogeorgi.com/events/events/</loc>
-        <lastmod>2014-03-31T14:56:38+02:00</lastmod>
+        <lastmod>2014-04-25T13:31:11+02:00</lastmod>
     </url>
     <url>
         <loc>http://www.roccogeorgi.com/</loc>
@@ -280,7 +284,7 @@
     </url>
     <url>
         <loc>http://www.roccogeorgi.com/projects/projects/</loc>
-        <lastmod>2014-03-31T14:56:38+02:00</lastmod>
+        <lastmod>2014-04-25T13:31:11+02:00</lastmod>
     </url>
     <url>
         <loc>http://www.roccogeorgi.com/robots.txt</loc>
