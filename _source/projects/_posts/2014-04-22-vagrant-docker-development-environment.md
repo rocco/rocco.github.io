@@ -92,8 +92,6 @@ A `vagrant up` now takes around 30 minutes including cloning all Git repos and i
 So devs around here can now be up and running from zero to development in roughly half an hour.
 All they need is node.js and [node-http-proxy][nodehttpproxy] installed on their machines and some /etc/hosts entries for our PHP front- and back-ends.
 
-Too bad this development system will not be used as much as I have just decided to take on a new, really exciting challenge and move on to a new project after more than five years freelancing with Deutsche Telekom/T-Systems.
-This probably also marks the end of my work in the TYPO3 and probably in the PHP world in favor of more JavaScript and mobile development.
 
 [vagrant]: http://www.vagrantup.com/
 [docker]: https://www.docker.io/
