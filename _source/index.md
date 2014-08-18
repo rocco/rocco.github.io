@@ -8,8 +8,9 @@ banner: duplotower.jpg
 
 ... and you can hire me as a web technology consultant.
 
-**I like JavaScript, especially mobile apps in Cordova/PhoneGap and servers in node.js**.<br>
-I am passionate about clean code, development tools and workflows.
+**I like JavaScript**
+... especially mobile/hybrid apps in Cordova/PhoneGap containers and servers based on node.js.<br>
+I have considerable experience in front end development projects of various sizes and I have done a lot of back end projects in the past. As a full-stack developer, I am passionate about clean code, development tools and workflows.
 
 **My professional aim is to stay on top of recent web technology and educate my clients about it.**
 
@@ -29,7 +30,8 @@ You are a running a startup, IT-department or a similar software development com
 - CSS3
 - mobile apps, Cordova/PhoneGap
 - node.js
-- Git/Gerrit
+- Grunt
+- Git, Gerrit
 
 <!-- 
 [Details on my background and experience][about].
