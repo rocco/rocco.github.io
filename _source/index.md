@@ -9,6 +9,7 @@ banner: duplotower.jpg
 ... and you can hire me as a web technology consultant.
 
 **I like JavaScript**
+
 ... especially mobile/hybrid apps in Cordova/PhoneGap containers and servers based on node.js.<br>
 I have considerable experience in front end development projects of various sizes and I have done a lot of back end projects in the past. As a full-stack developer, I am passionate about clean code, development tools and workflows.
 
