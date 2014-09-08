@@ -16,8 +16,15 @@
 	
 	<link rel="canonical" href="http://www.roccogeorgi.com/projects/mobile-cross-plattform-application-for-municipal-services.html">
 
-	<link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200' rel='stylesheet' type='text/css'>
+	<!--link href='http://fonts.googleapis.com/css?family=Raleway:100,200,400' rel='stylesheet' type='text/css'-->
+
 <link rel="stylesheet" type="text/css" href="/assets/0bcd3a9f4986c6c80770cb67101815bb.css">
+
+	<style>
+		nav.main ul::after {
+			background-image: url('/images/banners/coffeecontainers.jpg');
+		}
+	</style>
 
 <script src="/assets/a8e5412632c275174b9521fd8322f19d.js"></script>
 
@@ -25,6 +32,19 @@
 		window.addEventListener('load', function () {
 			FastClick.attach(document.body);
 		}, false);
+
+		WebFontConfig = {
+    google: { families: [ 'Raleway:100,200,400:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
 	</script>
 
 </head>
@@ -87,12 +107,6 @@ A QR-reader plugin was also integrated to scan QR-Codes placed at bus- and train
 			<a href="https://github.com/rocco/rocco.github.io/blob/source/README.md">About this Page</a> - <a href="https://github.com/rocco/rocco.github.io/tree/source/">Jekyll Source</a>
 		</span>
 	</footer>
-
-	<style>
-		nav.main ul::after {
-			background-image: url('/images/banners/coffeecontainers.jpg');
-		}
-	</style>
 
 </body>
 </html>
