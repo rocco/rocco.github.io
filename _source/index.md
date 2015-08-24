@@ -1,16 +1,16 @@
 ---
 layout: page
 ident: index
-title: Hi, I am Rocco Georgi
+title: Hello, I am Rocco Georgi
 usesitetitle: true
 banner: duplotower.jpg
 ---
 
 ... and you can hire me as a web technology consultant.
 
-**I like JavaScript**
+**I like to work with JavaScript**
 
-... especially mobile/hybrid apps in Cordova/PhoneGap containers and servers based on node.js.<br>
+... especially to develop mobile/hybrid apps in Cordova/PhoneGap containers and servers based on node.js.<br>
 I have considerable experience in front end development projects of various sizes and I have done a lot of back end projects in the past. As a full-stack developer, I am passionate about clean code, development tools and workflows.
 
 **My professional aim is to stay on top of recent web technology and educate my clients about it.**
