@@ -32,7 +32,7 @@ The posts itself do not need a `category: events` in their *front-matter*.
 
 ## Jekyll plugins
 
-I am using [Michael Levin's](http://www.kinnetica.com/) sitemap generator in the [octopress version])(https://github.com/imathis/octopress/blob/master/plugins/sitemap_generator.rb).
+I am using [Michael Levin's](http://www.kinnetica.com/) sitemap generator in the [octopress version](https://github.com/imathis/octopress/blob/master/plugins/sitemap_generator.rb).
 
 My forks of plugins are slightly fixed/adjusted/merged to my needs:
 

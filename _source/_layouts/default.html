@@ -16,12 +16,19 @@
 	{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
 	<link rel="canonical" href="{{ canonical }}">
 
-	<link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200' rel='stylesheet' type='text/css'>
+	<!--link href='http://fonts.googleapis.com/css?family=Raleway:100,200,400' rel='stylesheet' type='text/css'-->
+
 {% bundle %}
 - /_stylesheets/reset.css
 - /_stylesheets/setup.css
 - /_stylesheets/syntax.css
 {% endbundle %}
+
+	<style>
+		nav.main ul::after {
+			background-image: url('/images/banners/{% if page.banner %}{{ page.banner }}{% else %}{{ site.banner }}{% endif %}');
+		}
+	</style>
 
 {% bundle %}
 - /_javascript/fastclick.js
@@ -31,6 +38,16 @@
 		window.addEventListener('load', function () {
 			FastClick.attach(document.body);
 		}, false);
+
+		var WebFontConfig = {google: {families: ['Raleway:100,200,400:latin']}};
+		(function () {
+			var wf = document.createElement('script');
+			wf.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+			wf.type = 'text/javascript';
+			wf.async = 'true';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(wf, s);
+		})();
 	</script>
 
 </head>
@@ -57,12 +74,6 @@
 			<a href="https://github.com/rocco/rocco.github.io/blob/source/README.md">About this Page</a> - <a href="https://github.com/rocco/rocco.github.io/tree/source/">Jekyll Source</a>
 		</span>
 	</footer>
-
-	<style>
-		nav.main ul::after {
-			background-image: url('/images/banners/{% if page.banner %}{{ page.banner }}{% else %}{{ site.banner }}{% endif %}');
-		}
-	</style>
 
 </body>
 </html>
