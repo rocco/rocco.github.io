@@ -68,7 +68,9 @@ So I can keep the `/_deploy` folder on `master` and add, commit and force push t
 
 My workflow is simple:
 
-- edit/add files
-- `$ jekyll build` to generate page
 - `$ jekyll serve --watch` to inspect locally on [`http://localhost.com:4000/`](http://localhost.com:4000/)
+- edit/add files
+- reload browser
+- git commit these changes in source branch (works without, but helps keeping track/backing up)
+- `$ jekyll build` to generate page
 - ./.jk-deploy to push website to GitHub
