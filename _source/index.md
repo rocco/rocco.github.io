@@ -15,14 +15,15 @@ I have considerable experience in front end development projects of various size
 
 **My professional aim is to stay on top of recent web technology and educate my clients about it.**
 
-You are a running a startup, IT-department or a similar software development company?
+You are running a startup, IT-department or a similar software development company?
+Front end developers in your digital agency are in need of a know-how update?
 
 **I can help your team improve**
 
 - their technology and tool selection
 - their JavaScript development workflow
-- their skills using developer tools
-- and get their projects done
+- their skills using development tools
+- in getting their projects done
 
 **Ask me about**
 
@@ -30,9 +31,10 @@ You are a running a startup, IT-department or a similar software development com
 - HTML5
 - CSS3
 - mobile apps, Cordova/PhoneGap
-- node.js
-- Grunt
+- Angular
+- Ionic
 - Git, Gerrit
+- node.js, npm
 
 <!-- 
 [Details on my background and experience][about].
@@ -40,7 +42,7 @@ You are a running a startup, IT-department or a similar software development com
 
 ## Contact me
 
-Please send emails to <rocco@pavingways.com> or tweet something to [@GeeROC][twitter].
+Please send emails to <rocco@pavingways.com>, tweets to [@GeeROC][twitter].
 
 You can also find me on [GitHub][github] and [LinkedIn][linkedin].
 

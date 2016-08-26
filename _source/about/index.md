@@ -5,8 +5,8 @@ title: About
 banner: roccocam.jpg
 ---
 
-Hi, I am Rocco Georgi, this is my portfolio page. I am listing some of my educational and professional background here along with skills and milestones that I find worth mentioning.
-There are also dedicated pages for [projects][projects] and [events][events]. You can [hire me as freelancing web technology expert][hireme].
+Hi, I am Rocco Georgi. This is my portfolio page listing some of my educational and professional background along with skills and milestones that I find worth mentioning.
+There are also dedicated pages for some [projects][projects] and [events][events]. You can [hire me as freelancing web technology expert][hireme] (which is part of the reason why this page is in desperate need of an update).
 
 ## Background
 
@@ -35,7 +35,7 @@ Since 2009 I am in a consulting/development gig at Deutsche Telekom and some rel
 
 As of 2010 [**I am interested in node.js**][nodepost] and I maintain an open source [node.js boilerplate][node-base].
 
-I currently live in Frankfurt, Germany and I used to run the local HTML5/PhoneGap Meetup group. I know a little German.
+I currently live in Frankfurt, Germany and I used to run the local HTML5/PhoneGap Meetup group. I know a little German. <!-- If you get this joke, get in touch and I'll buy you a coffee. -->
 
 
 [industialdesign]: https://en.wikipedia.org/wiki/Industrial_design
@@ -54,32 +54,32 @@ I currently live in Frankfurt, Germany and I used to run the local HTML5/PhoneGa
 
 ## Skills
 
-Throughout the day I deal with and help others with the following:
+I usually deal with and help others with the following:
 
 - JavaScript
-	- jQuery, jQuery UI, Sencha ExtJS
-	- JS tools: QUnit, Jasmine, Node.js, Grunt, Yeoman, Jasy
-	- Backbone / Marionette
-	- on devices: Espruino, Arduino, Johnny-Five
-- HTML5, H5BP
-- CSS3, Sass/SCSS, Compass, LESS, Bootstrap
-- Cordova / PhoneGap, jQuery Mobile
-- Node.js, Express, Socket.IO
+	- past: jQuery, jQuery UI, Sencha ExtJS
+	- now: Angular, Ionic
+	- JS tools: QUnit, Jasmine, Node.js, npm
+- HTML5
+- CSS3 including Sass/SCSS, Compass, LESS, Bootstrap
+- Cordova/PhoneGap
 - MySQL, MongoDB
-- Git, Gerrit (also SVN)
-- JIRA, Confluence, Trac, Gimp
+- Git, Gerrit, Gitlab
+- JIRA, Confluence, Trac, Redmine, Gimp
 - Jekyll, some mild Ruby
-- Scrum, Kanban
+- Scrum, Kanban, agile in general
 
 ### I am currently especially interested in:
 
-- cross-platform / hybrid mobile apps in JavaScript, for browsers and Cordova/PhoneGap containers
-- front-end development in HTML5, CSS3 and JavaScript frameworks, especially AngularJS
+- cross-platform / hybrid mobile apps in JavaScript, for browsers and Cordova containers
+- front-end development in HTML5, CSS3 and JavaScript frameworks, especially Angular
 - server-side JavaScript in Node.js
-- Git and Gerrit workflows
+- Git workflows
 - Chrome Developer Tools
 - ECMAScript 6
 - web components
+- progressive web apps
+- team leading, workshops, mentoring, know-how transfer
 
 ### I also did development-related stuff like:
 
@@ -96,11 +96,10 @@ Throughout the day I deal with and help others with the following:
 I enjoy contributing to open source projects whenever I get a chance. 
 The web would be nothing without open source, we all depend on it.
 
-I maintain these open source projects on [GitHub][roccogithub]:
+I used to maintain these open source projects on [GitHub][roccogithub]:
 
 - [Formwin][formwingh], a form styler for IE8+
 - [node-base][nodebasegh], a Node.js boilerplate
-
 
 [roccogithub]: https://github.com/rocco?tab=repositories
 [formwingh]: https://github.com/rocco/formwin
