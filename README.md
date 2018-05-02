@@ -40,8 +40,7 @@ My forks of plugins are slightly fixed/adjusted/merged to my needs:
 
 - [jekyll-press](https://github.com/rocco/jekyll-press) compresses HTML
 	- merged: allow excluding any StaticFiles by Matt Way
-	- merged: json support by komachi
-</strike>
+	- merged: json support by komachi</strike>
 	- taken out because of a Java error "java.lang.IndexOutOfBoundsException: Index: 0, Size: 0"
 	- after all, HTML is sent gzipped anyways, so what's the point compressing it again?
 
