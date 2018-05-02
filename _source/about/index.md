@@ -10,7 +10,7 @@ There are also dedicated pages for some [projects][projects] and [events][events
 
 ## Background
 
-In 1991 I started programming on a C64. 
+In 1991 I started programming on a C64.
 Five years later I wanted to become an [industrial designer][industialdesign] because I liked the looks of my [Colani][colaniwiki]-designed [486 SX 25 PC-Tower][colanipc] and drawing cars.
 Instead I opted for a university degree and studied **Software Engineering and English Linguistics (M.A.)**.
 
@@ -28,14 +28,16 @@ Later I co-founded a business called [PavingWays Ltd.][pw] to bundle research an
 
 **I think staying up-to-date with current technology developments is an essential duty as a software developer and I try to keep up with it.**
 
-In efforts to evolve from being a software developer I did some reasearch and [presented at several conferences][events], mostly about JavaScript on mobile devices. 
+In efforts to evolve from being a software developer I did some reasearch and [presented at several conferences][events], mostly about JavaScript on mobile devices.
 Some of my writing [was published by others][events] and I went on consulting clients and doing workshops for IT departments and individuals.
 
-Since 2009 I am in a consulting/development gig at Deutsche Telekom and some related companies, currently at T-Systems.
+When node.js came out in 2009 [**I became interested**][nodepost] and I maintained an open source [node.js boilerplate][node-base] (now outdated) for a while.
 
-As of 2010 [**I am interested in node.js**][nodepost] and I maintain an open source [node.js boilerplate][node-base].
+Blockchain and DLT technologies have become very interesting to me in 2016 and I am learning as much as I can.
 
-I currently live in Frankfurt, Germany and I used to run the local HTML5/PhoneGap Meetup group. I know a little German. <!-- If you get this joke, get in touch and I'll buy you a coffee. -->
+Hybrid Apps are my main professional topic currently.
+
+I currently live in Frankfurt, Germany. I know a little German ... he's sitting over there. (if you get this, I'll buy you a coffee)
 
 
 [industialdesign]: https://en.wikipedia.org/wiki/Industrial_design
@@ -93,25 +95,20 @@ I usually deal with and help others with the following:
 
 ### Open Source
 
-I enjoy contributing to open source projects whenever I get a chance. 
 The web would be nothing without open source, we all depend on it.
+I try to contribute to open source projects whenever I get a chance.
 
-I used to maintain these open source projects on [GitHub][roccogithub]:
-
-- [Formwin][formwingh], a form styler for IE8+
-- [node-base][nodebasegh], a Node.js boilerplate
+Find my open source projects and forks on [GitHub][roccogithub]:
 
 [roccogithub]: https://github.com/rocco?tab=repositories
-[formwingh]: https://github.com/rocco/formwin
-[nodebasegh]: https://github.com/rocco/node-base
 
 ### I also like
 
-photography, travel, moving and sailing.
+photography, rowing and sailing.
 
 ## Find me here
 
-- E-Mail: <rocco@pavingways.com>
+- E-Mail: <mail@roccogeorgi.com>
 - [GitHub][github]
 - [Twitter][twitter]
 - [LinkedIn][linkedin]
@@ -125,7 +122,5 @@ photography, travel, moving and sailing.
 [twitter]: https://twitter.com/GeeROC
 [linkedin]: http://www.linkedin.com/in/roccogeorgi
 [xing]: https://www.xing.com/profile/Rocco_Georgi
-[facebook]: https://www.facebook.com/rocco.georgi
-[googleplus]: https://plus.google.com/+RoccoGeorgi
 [flickr]: http://www.flickr.com/photos/geeroc
 [500px]: http://500px.com/geeroc

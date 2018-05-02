@@ -37,16 +37,19 @@ I am using [Michael Levin's](http://www.kinnetica.com/) sitemap generator in the
 My forks of plugins are slightly fixed/adjusted/merged to my needs:
 
 <strike>
+
 - [jekyll-press](https://github.com/rocco/jekyll-press) compresses HTML
 	- merged: allow excluding any StaticFiles by Matt Way
 	- merged: json support by komachi
-	- taken out because of Java's "java.lang.IndexOutOfBoundsException: Index: 0, Size: 0"
-	- after all HTML is gzipped anyways, so what's the point compressing it again?
 </strike>
+	- taken out because of a Java error "java.lang.IndexOutOfBoundsException: Index: 0, Size: 0"
+	- after all, HTML is sent gzipped anyways, so what's the point compressing it again?
+
 - [jekyll-asset_bundler](https://github.com/rocco/jekyll-asset_bundler) compresses JS and CSS
 	- allow to serve compressed locally via new config option "servenodev"
 	- cache dir in line with pygments and others (dot-dir)
 	- patch to enable re-rendering on --watch
+
 - imagetag
 	- my own image tag plugin to add classes to images
 	- based on [Andrew Stewart's](http://blog.stwrt.ca/2012/11/04/jekyll-images) [plugin](https://github.com/stewart/blog/blob/master/plugins/image_tag.rb)
@@ -71,6 +74,6 @@ My workflow is simple:
 - `$ jekyll serve --watch` to inspect locally on [`http://localhost.com:4000/`](http://localhost.com:4000/)
 - edit/add files
 - reload browser
-- `$ git commit ...` changes on source branch (works w/o, but helps keeping track/backing up)
+- `$ git commit ...` saves all the changes on source branch
 - `$ jekyll build` to generate page
 - `$ ./.jk-deploy` to push website to GitHub
