@@ -3,12 +3,12 @@ layout: page
 ident: index
 title: Hello, I am Rocco Georgi
 usesitetitle: true
-banner: duplotower.jpg
+banner: eisernersteg.jpg
 ---
 
-This is my portfolio page.
+Welcome to my portfolio page.
 
-I work as a web technology consultant building hybrid apps using JavaScript and TypeScript  and servers based on node.js.<br>
+As a web technology consultant I focus on hybrid app development using JavaScript and servers based on Node.js.<br>
 I have considerable experience in front end development projects of various sizes and I have done a lot of back end projects in the past.<br>
 I am passionate about APIs, development tools and build pipelines.
 
@@ -37,7 +37,7 @@ Your developers are in need of a know-how update?
 
 Details on my [background and experience][about].
 
-## Contact me
+## Contact
 
 Please send emails to <mail@roccogeorgi.com> and tweets to [@GeeROC][twitter].
 

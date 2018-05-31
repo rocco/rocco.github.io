@@ -5,8 +5,20 @@ title: About
 banner: roccocam.jpg
 ---
 
-Hi, I am Rocco Georgi. This is my portfolio page listing some of my educational and professional background along with skills and milestones that I find worth mentioning.
-There are also dedicated pages for some [projects][projects] and [events][events]. You can [hire me as freelancing web technology expert][hireme] (which is part of the reason why this page is in desperate need of an update).
+My name is Rocco Georgi and this is my portfolio page. It lists a bit of my educational and professional background along with skills and milestones that I find worth mentioning.
+There are dedicated pages for some [projects][projects] and [events][events]. You can [hire me as freelancing web technology expert][hireme] (which is part of the reason why this page is always in desperate need of an update).
+
+**I think staying up-to-date with current technology is an essential duty as a software developer and I try to keep up with it.**
+
+To evolve as a software developer and consultant I constantly do reasearch and did [presented at a few conferences][events], mostly about JavaScript on mobile devices. Some of my writing [was published by others][events] and I conducted several workshops for IT departments and individuals.
+
+When Node.js came out in 2009 [**I became interested**][nodepost] and I maintained an open source [node.js boilerplate][node-base] (now outdated) for a while.
+
+Blockchain and DLT technologies have become very interesting to me in 2016 and I am learning as much as I can.
+
+Hybrid Apps, Ionic, Angular, TypeScript, Cordova and fastlane are my main professional topics currently.
+
+I live in Frankfurt, Germany. I know a little German ... he's sitting <a title="(if you get this, I'll buy you a coffee)">over there</a>.
 
 ## Background
 
@@ -25,20 +37,6 @@ I have worked on my own, for individuals, startups, and all other sizes of compa
 
 In 2006 I started focusing mainly on [**JavaScript in mobile browsers**][pwstart].
 Later I co-founded a business called [PavingWays Ltd.][pw] to bundle research and consulting for clients mainly in the UK.
-
-**I think staying up-to-date with current technology developments is an essential duty as a software developer and I try to keep up with it.**
-
-In efforts to evolve from being a software developer I did some reasearch and [presented at several conferences][events], mostly about JavaScript on mobile devices.
-Some of my writing [was published by others][events] and I went on consulting clients and doing workshops for IT departments and individuals.
-
-When node.js came out in 2009 [**I became interested**][nodepost] and I maintained an open source [node.js boilerplate][node-base] (now outdated) for a while.
-
-Blockchain and DLT technologies have become very interesting to me in 2016 and I am learning as much as I can.
-
-Hybrid Apps are my main professional topic currently.
-
-I currently live in Frankfurt, Germany. I know a little German ... he's sitting over there. (if you get this, I'll buy you a coffee)
-
 
 [industialdesign]: https://en.wikipedia.org/wiki/Industrial_design
 [colaniwiki]: https://en.wikipedia.org/wiki/Luigi_Colani
@@ -61,10 +59,10 @@ I usually deal with and help others with the following:
 - JavaScript
 	- past: jQuery, jQuery UI, Sencha ExtJS
 	- now: Angular, Ionic
-	- JS tools: QUnit, Jasmine, Node.js, npm
-- HTML5
-- CSS3 including Sass/SCSS, Compass, LESS, Bootstrap
-- Cordova/PhoneGap
+	- JS tools: Jasmine, Mocha, Chai, Node.js, npm
+- HTML5, CSS3, Sass
+- Cordova/PhoneGap/Capacitor
+- fastlane
 - MySQL, MongoDB
 - Git, Gerrit, Gitlab
 - JIRA, Confluence, Trac, Redmine, Gimp
@@ -73,7 +71,7 @@ I usually deal with and help others with the following:
 
 ### I am currently especially interested in:
 
-- cross-platform / hybrid mobile apps in JavaScript, for browsers and Cordova containers
+- cross-platform / hybrid mobile apps in JavaScript, for browsers and Cordova containers, Capacitor
 - front-end development in HTML5, CSS3 and JavaScript frameworks, especially Angular
 - server-side JavaScript in Node.js
 - Git workflows
@@ -81,10 +79,13 @@ I usually deal with and help others with the following:
 - ECMAScript 6
 - web components
 - progressive web apps
-- team leading, workshops, mentoring, know-how transfer
+- workshops, mentoring, know-how transfer
+- Ethereum/Solidity development
+- Blockchain and DLT in general
 
 ### I also did development-related stuff like:
 
+- API specifications (Swagger, Apiary)
 - requirement analysis
 - system analysis
 - consulting clients
@@ -92,6 +93,8 @@ I usually deal with and help others with the following:
 - workflow definitions
 - quality assurance and code review
 - managing offshore programmers
+- technical writing
+
 
 ### Open Source
 
@@ -104,7 +107,7 @@ Find my open source projects and forks on [GitHub][roccogithub]:
 
 ### I also like
 
-photography, rowing and sailing.
+photography, rowing and sailing
 
 ## Find me here
 
